@@ -1,5 +1,6 @@
 <?php
-
+phpinfo();
+die('end');
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
 
